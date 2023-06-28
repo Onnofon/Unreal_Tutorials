@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/marcu/Documents/Unreal Projects/WarehouseWreckage/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/marcu/Documents/Unreal Projects/WarehouseWreckage/Content/Map/Minimal_Default12.umap",
+				"C:/Users/marcu/Documents/Unreal Projects/WarehouseWreckage/Content/Map/BP_Projectile.uasset",
+				"C:/Users/marcu/Documents/Unreal Projects/WarehouseWreckage/Content/Map/Main_Map.umap",
+				"C:/Users/marcu/Documents/Unreal Projects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/Users/marcu/Documents/Unreal Projects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/BP_SM_Barrel.uasset"
+			]
+		}
+	]
+}
